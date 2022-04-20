@@ -3,7 +3,7 @@ title: "The effect of Social Networks Sites using on College Students' innovativ
 authors:
 - Yuan-Rui Zheng
 - Jia-Min Xie
-- Peng LEE
+- Peng Lee
 date: "2022-04-27"
 
 publication: "UNDERREVIEW"
