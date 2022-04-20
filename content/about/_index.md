@@ -3,7 +3,7 @@ academia:
 - course:
     degree: B.Sc.
     end_date: "2023"
-    institution: University of Yunnan Normal University Business school
+    institution: Yunnan Normal University Business school
     major: Applied Psychology(pursuing)
     start_date: "2019"
 affiliations:
@@ -36,7 +36,7 @@ socials:
 title: about
 ---
 
-My names is **Yuan-Rui Zheng**, I am a undergraduate student in Yunnan Normal University Business School(Kunming City College). My research interests include statistical power, social cognition(i.e., the enhancement effect of moral-self in perceptual processing). I am a editor of Chinese Open Science Network Official Account and I support open science.
+My names is **Yuan-Rui Zheng**, I am an undergraduate student in Yunnan Normal University Business School(Kunming City College). My research interests include statistical power, social cognition(i.e., the enhancement effect of moral-self in perceptual processing). I am a editor of Chinese Open Science Network Official Account and I support open science.
 
 In my free time, I love learning programming, reading books about traditional Chinese culture, and boxing.
 
