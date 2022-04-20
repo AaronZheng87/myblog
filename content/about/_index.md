@@ -16,8 +16,7 @@ affiliations:
     email: aaronzheng87@gmail.com
     name: Openscience Official Account
     title: Editor
-# blog: true
-# cv: cv.pdf
+
 date: "2020-10-20T17:51:47+03:30"
 draft: false
 full_name: Yuan-Rui Zheng
