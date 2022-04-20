@@ -1,7 +1,7 @@
 ---
 academia:
 - course:
-    degree: B.Sc.
+    degree: B.Sc.(pursuing)
     end_date: "2023"
     institution: University of Yunnan Normal University Business school
     major: Applied Psychology
@@ -9,7 +9,7 @@ academia:
 affiliations:
 - affiliation:
     email: aaronzheng87@gmail.com
-    name: ChuanPeng-lab
+    name: ChuanPeng-Lab
     title: Collaborator&Member
     
 - affiliation:
