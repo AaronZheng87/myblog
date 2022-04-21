@@ -25,7 +25,7 @@ news_items:
 - date: "2021-10-05"
   extra_text: Oct 05, 2021.
   text: I finished reading [Structural Equation Modeling with lavaan](https://www.wiley.com/en-us/Structural+Equation+Modeling+with+lavaan-p-9781786303691#:~:text=Structural%20Equation%20Modeling%20with%20lavaan%20thus%20helps%20the%20reader%20to,variables%20and%20latent%20growth%20models.)
-num_news: 6
+num_news: 7
 show_news_icons: true
 title: news
 ---
