@@ -10,7 +10,7 @@ affiliations:
 - affiliation:
     email: aaronzheng87@gmail.com
     name: ChuanPeng-Lab
-    title: Collaborator&Member
+    title: Member
     
 - affiliation:
     email: aaronzheng87@gmail.com
