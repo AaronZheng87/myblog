@@ -19,6 +19,9 @@ news_items:
 - date: "2021-10-13"
   extra_text: Oct 13, 2021.
   text: I finished the courses [Improving Your Statistical Inferences](https://coursera.org/verify/BYPX7EN3SYM7) in Coursera
+- date: "2021-09-15"
+  extra_text: Sept 15, 2021.
+  text: I finished reading [Doing Meta-Analysis with R A Hands-On Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
 - date: "2021-10-05"
   extra_text: Oct 05, 2021.
   text: I finished reading [Structural Equation Modeling with lavaan](https://www.wiley.com/en-us/Structural+Equation+Modeling+with+lavaan-p-9781786303691#:~:text=Structural%20Equation%20Modeling%20with%20lavaan%20thus%20helps%20the%20reader%20to,variables%20and%20latent%20growth%20models.)
