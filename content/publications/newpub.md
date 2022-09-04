@@ -4,9 +4,9 @@ authors:
 - Yuan-Rui Zheng
 - Jia-Min Xie
 - Peng Lee
-date: "2022-04-27"
+date: "2022-08-1"
 
-publication: "UNDERREVIEW"
+publication: "Psychology: Techniques and Applications"
 
 # links:
 #     pdf: https://github.com/hadisinaee/avicenna

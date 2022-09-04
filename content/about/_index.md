@@ -24,7 +24,7 @@ headless: true
 interests:
 - Statistical Power
 - Hierarchical Models
-- Social Cognition
+- Fast-same effect
 - R programming
 - JASP
 - Python
