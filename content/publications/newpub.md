@@ -1,12 +1,12 @@
 ---
-title: "The effect of Social Networks Sites using on College Students' innovative Behavior: A moderated mediation effect"
+title: "The Effect of Social Networks Sites Using on College Students' Innovative Behavior: A Moderated Mediation Effect"
 authors:
 - Yuan-Rui Zheng
 - Jia-Min Xie
 - Peng Lee
-date: "2022-08-1"
+date: "2022-08-01"
 
-publication: "Psychology: Techniques and Applications"
+publication: "Psychology: Techniques and Applications(in Chinese)"
 
 # links:
 #     pdf: https://github.com/hadisinaee/avicenna
