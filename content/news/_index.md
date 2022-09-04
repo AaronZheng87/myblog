@@ -4,6 +4,9 @@ default_news_icon: file-text
 draft: false
 headless: true
 news_items:
+- date: "2022-07-29"
+  extra_text: Jul 29, 2022.
+  text: I have participated Neuromatch Academy course and project
 - date: "2022-03-02"
   extra_text: Mar 02, 2022.
   text: I finished reading [Beyond Multiple Linear Regression Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
