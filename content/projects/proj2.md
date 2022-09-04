@@ -1,7 +1,7 @@
 # ---
-# title: "Vestibulum: Olive Tadpole Pit Bull Terrier"
-# 
-# date: "2019-03-30"
+title: "An introduction of Sequential Bayes Factor Analysis"
+
+date: "2021-05-27"
 # 
 # links:
 #     website: 'https://github.com/hadisinaee/avicenna'
