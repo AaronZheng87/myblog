@@ -1,9 +1,8 @@
 ---
-title: "An introduction of Sequential Bayes Factor Analysis"
-
-date: "2022-05-27"
-
-# links:
-#     website: 'https://github.com/hadisinaee/avicenna'
-#     alias: link_name_here
+title: "Projects"
+date: 2020-10-20T17:51:47+03:30
+draft: false
+headless: true
 ---
+
+content/projects/index.md
