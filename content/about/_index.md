@@ -4,7 +4,7 @@ academia:
     degree: B.Sc.
     end_date: "2023"
     institution: Yunnan Normal University Business School
-    major: Applied Psychology(pursuing)
+    major: Applied Psychology
     start_date: "2019"
 affiliations:
 - affiliation:
